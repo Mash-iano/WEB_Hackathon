@@ -1,0 +1,29 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+ h4{
+    font-size: 30px ; text-align:center ;
+}
+header { background: #002147; background-size: 10px; color: rgb(255, 252, 252); text-align: center; padding: 10px 0;font-size: 20px; }
+
+section { max-width: 800px; margin: 20px auto; padding: 20px; background: rgb(202, 202, 202); border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+h7{ text-align: center;}
+h1, h2 { color: #002147; }
+
+ul { list-style: none; padding: 0; }
+
+ul li { background: #e3e3e3; margin: 5px 0; padding: 10px; border-radius: 5px; }
+
+.project { margin-bottom: 15px; padding: 10px; border-left: 5px solid #002147; background: #f9f9f9; }
+
+a { color: #002147; text-decoration: none; font-weight: bold; }
+a:hover { text-decoration: underline; }
+
+.btn { display: inline-block;background: #002147;color: white;padding: 10px 20px;border-radius: 5px;text-align: center;font-weight: bold;text-decoration: none;margin-top: 10px;
+}
+.btn:hover {
+    background: #001a33;
+}
+.profile-pic {display: block;width: 150px;height: 150px;border-radius: 60%;object-fit:cover;margin: 20px auto; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+footer{
+    text-align: center;
+}
